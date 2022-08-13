@@ -5,7 +5,7 @@
     Inpired from Python crash course for beginners
     of Brad of Travery Media :)
     
-    https://www.youtube.com/watch?v=JJmcL1N2KQs
+    see: https://www.youtube.com/watch?v=JJmcL1N2KQs
     
     1- variables.py
     2- strings.py
