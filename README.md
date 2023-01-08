@@ -1,3 +1,11 @@
+How to run Python program on Visual studio code:
+flow the instruction : 
+1- download and install python on your pc;
+2- download and install visual studio code;
+3- add the two extensions: (1) code runner + (2) python (IntelliSense (Pylance),etc. of Microsoft) 
+
+https://www.youtube.com/watch?v=AKVRkB0fot0
+
 # Python_Projects
 
     #Project py0 = learning Python
